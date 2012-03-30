@@ -1,0 +1,12 @@
+== PostgreSQL schema partitioning example - SaaS 
+
+- rails example app
+- keynote presentation
+
+== Resources
+
+- http://blog.jerodsanto.net/2011/07/building-multi-tenant-rails-apps-with-postgresql-schemas/
+
+== License
+
+MIT License
